@@ -1,0 +1,5 @@
+# folder logos
+.idea/
+
+# txt files
+logs/*.txt
